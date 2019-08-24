@@ -1,0 +1,4 @@
+displayName = Craftable Power Cells
+author = Gaggol
+version = 1.0
+homepage = https://github.com/Gaggol/Terraria-CraftablePowerCells
